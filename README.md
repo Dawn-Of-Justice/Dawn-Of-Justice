@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Salo Soja Edwin
 - 👀 I’m interested in Machine learning, Maths, Neural Networking
 - 🌱 I’m currently learning Machine Learning ༼ つ ◕_◕ ༽つ
-- 💞️ I’m looking to collaborate on Machine Learning
+- 💞️ I’m looking to collaborate on Machine Learning & HTML Projects
 - 📫 How to reach me https://linktr.ee/salosojaedwin
 
 <!---
