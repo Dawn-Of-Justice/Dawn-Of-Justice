@@ -39,3 +39,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dawn-of-justice&show_icons=true&locale=en" alt="dawn-of-justice" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dawn-of-justice&" alt="dawn-of-justice" /></p>
+
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
