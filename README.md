@@ -43,4 +43,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Humanoid Robots Could Replace Human Workers?](https://blazingcold.com/could-this-be-a-start-to-the-humanoid-era/)
+- [Binary Search in C](https://blazingcold.com/binary-search-in-c/)
+- [Polynomial Addition using Structure](https://blazingcold.com/polynomial-addition-using-structure/)
+- [Matrix Multiplication](https://blazingcold.com/matrix-multiplication/)
+- [Frequency of a Character in a string using java](https://blazingcold.com/frequency-of-a-character-in-a-string-using-java/)
 <!-- BLOG-POST-LIST:END -->
