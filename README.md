@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **a humanoid Robot(A.I.R.A)**
 
-- 🌱 I’m currently learning **python, Arduino, Matlab, Fusion 360**
+- 🌱 I’m currently learning **Python, Arduino, Matlab, Fusion 360**
 
-- 👯 I’m looking to collaborate on **machine learning projects**
+- 👯 I’m looking to collaborate on **Machine learning projects**
 
-- 🤝 I’m looking for help with **machine learning**
+- 🤝 I’m looking for help with **Machine learning**
 
 - 📝 I regularly write articles on [https://blazingcold.com/](https://blazingcold.com/)
 
