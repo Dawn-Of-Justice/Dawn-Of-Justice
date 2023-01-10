@@ -43,9 +43,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Guide for Creating a Basic Web Page for Free](https://blazingcold.com/guide-for-creating-a-basic-web-page-for-free/)
-- [5 Ways to Promote Your Business on Google: A Guide to Maximizing Your Advertising Efforts](https://blazingcold.com/5-ways-to-promote-your-business-on-google-a-guide-to-maximizing-your-advertising-efforts/)
-- [Exploring the Pros and Cons of Using ChatGPT: A Comprehensive Look](https://blazingcold.com/exploring-the-pros-and-cons-of-using-chatgpt-a-comprehensive-look/)
 - [3D Printing Then Vs Now](https://blazingcold.com/3d-printing-then-vs-now/)
+- [Exploring the Pros and Cons of Using ChatGPT: A Comprehensive Look](https://blazingcold.com/exploring-the-pros-and-cons-of-using-chatgpt-a-comprehensive-look/)
+- [5 Ways to Promote Your Business on Google: A Guide to Maximizing Your Advertising Efforts](https://blazingcold.com/5-ways-to-promote-your-business-on-google-a-guide-to-maximizing-your-advertising-efforts/)
+- [Guide for Creating a Basic Web Page for Free](https://blazingcold.com/guide-for-creating-a-basic-web-page-for-free/)
 - [Humanoid Robots Could Replace Human Workers?](https://blazingcold.com/could-this-be-a-start-to-the-humanoid-era/)
 <!-- BLOG-POST-LIST:END -->
