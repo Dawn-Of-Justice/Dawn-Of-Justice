@@ -43,9 +43,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Potential of 5G: The Future of Connectivity at Your Fingertips](https://blazingcold.com/unlocking-the-potential-of-5g-the-future-of-connectivity-at-your-fingertips/)
+- [Overview about Creating a Basic Web Page for Free](https://blazingcold.com/guide-for-creating-a-basic-web-page-for-free/)
 - [Exploring the Pros and Cons of Using ChatGPT: A Comprehensive Look](https://blazingcold.com/exploring-the-pros-and-cons-of-using-chatgpt-a-comprehensive-look/)
 - [5 Ways to Promote Your Business on Google: A Guide to Maximizing Your Advertising Efforts](https://blazingcold.com/5-ways-to-promote-your-business-on-google-a-guide-to-maximizing-your-advertising-efforts/)
 - [Revving Up the Future: Are Electric Vehicles Here to Stay?](https://blazingcold.com/revving-up-the-future-are-electric-vehicles-here-to-stay/)
-- [Unveiling the Differences: Deep Learning vs Machine Learning in AI](https://blazingcold.com/unveiling-the-differences-deep-learning-vs-machine-learning-in-ai/)
-- [Iron Man in Real Life: How Close Are We to Making the Suit a Reality](https://blazingcold.com/iron-man-in-real-life-how-close-are-we-to-making-the-suit-a-reality/)
 <!-- BLOG-POST-LIST:END -->
