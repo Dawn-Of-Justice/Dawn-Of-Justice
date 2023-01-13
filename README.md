@@ -43,9 +43,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Potential of 5G: The Future of Connectivity at Your Fingertips](https://blazingcold.com/unlocking-the-potential-of-5g-the-future-of-connectivity-at-your-fingertips/)
 - [DuckyScript 101: Unlocking the Potential of USB Rubber Ducky](https://blazingcold.com/duckyscript-101-unlocking-the-potential-of-usb-rubber-ducky/)
 - [3D Printing Then Vs Now](https://blazingcold.com/3d-printing-then-vs-now/)
 - [Iron Man in Real Life: How Close Are We to Making the Suit a Reality](https://blazingcold.com/iron-man-in-real-life-how-close-are-we-to-making-the-suit-a-reality/)
-- [Unlocking the Potential of 5G: The Future of Connectivity at Your Fingertips](https://blazingcold.com/unlocking-the-potential-of-5g-the-future-of-connectivity-at-your-fingertips/)
 - [Overview about Creating a Basic Web Page for Free](https://blazingcold.com/guide-for-creating-a-basic-web-page-for-free/)
 <!-- BLOG-POST-LIST:END -->
