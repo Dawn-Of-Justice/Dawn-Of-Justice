@@ -44,7 +44,7 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Raspberry Pi vs Arduino: The Ultimate Microcontroller Showdown](https://blazingcold.com/raspberry-pi-vs-arduino-the-ultimate-microcontroller-showdown/)
-- [3D Printing Then Vs Now](https://blazingcold.com/3d-printing-then-vs-now/)
+- [Original vs Knockoff: A Comparative Look at Arduino Boards](https://blazingcold.com/original-vs-knockoff-a-comparative-look-at-arduino-boards/)
 - [Exploring the Pros and Cons of Using ChatGPT: A Comprehensive Look](https://blazingcold.com/exploring-the-pros-and-cons-of-using-chatgpt-a-comprehensive-look/)
 - [5 Ways to Promote Your Business on Google: A Guide to Maximizing Your Advertising Efforts](https://blazingcold.com/5-ways-to-promote-your-business-on-google-a-guide-to-maximizing-your-advertising-efforts/)
 - [Iron Man in Real Life: How Close Are We to Making the Suit a Reality](https://blazingcold.com/iron-man-in-real-life-how-close-are-we-to-making-the-suit-a-reality/)
