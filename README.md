@@ -43,9 +43,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Gaming: How to Choose the Right Gaming Mouse](https://blazingcold.com/level-up-your-gaming-how-to-choose-the-right-gaming-mouse/)
 - [PC vs Laptop: Which One Should You Choose? A Comprehensive Guide to Help You Decide](https://blazingcold.com/pc-vs-laptop-which-one-should-you-choose-a-comprehensive-guide-to-help-you-decide/)
+- [AIRA](https://blazingcold.com/aira/)
+- [Level Up Your Gaming: How to Choose the Right Gaming Mouse](https://blazingcold.com/level-up-your-gaming-how-to-choose-the-right-gaming-mouse/)
 - [Getting Started with GitHub: A Beginner&#39;s Guide to Mastering the World of Code Collaboration](https://blazingcold.com/getting-started-with-github-a-beginners-guide-to-mastering-the-world-of-code-collaboration/)
 - [Raspberry Pi vs Arduino: The Ultimate Microcontroller Showdown](https://blazingcold.com/raspberry-pi-vs-arduino-the-ultimate-microcontroller-showdown/)
-- [Xbox Series X vs PlayStation 5: A Head-to-Head Showdown of Gaming Giants](https://blazingcold.com/xbox-series-x-vs-playstation-5-a-head-to-head-showdown-of-gaming-giants/)
 <!-- BLOG-POST-LIST:END -->
