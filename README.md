@@ -43,7 +43,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Immersive Audio and Comfortable Design: A Review of HyperX Cloud Stinger Gaming Headphones](https://blazingcold.com/immersive-audio-and-comfortable-design-a-review-of-hyperx-cloud-stinger-gaming-headphones/)
+- [DIY Acylic Light](https://blazingcold.com/diy-acylic-light/)
 - [The Ultimate Guide to Building a High-Performance ML System](https://blazingcold.com/the-ultimate-guide-to-building-a-high-performance-ml-system/)
 - [PC vs Laptop: Which One Should You Choose? A Comprehensive Guide to Help You Decide](https://blazingcold.com/pc-vs-laptop-which-one-should-you-choose-a-comprehensive-guide-to-help-you-decide/)
 - [Level Up Your Gaming: How to Choose the Right Gaming Mouse](https://blazingcold.com/level-up-your-gaming-how-to-choose-the-right-gaming-mouse/)
