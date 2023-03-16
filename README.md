@@ -44,8 +44,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [DIY Acrylic Light](https://blazingcold.com/diy-acylic-light/)
-- [Experience Immortal Audio with the boAt Immortal IM1000D Wireless Headphones](https://blazingcold.com/experience-immortal-audio-with-the-boat-immortal-im1000d-wireless-headphones/)
 - [The Ultimate Guide to Building a High-Performance ML System](https://blazingcold.com/the-ultimate-guide-to-building-a-high-performance-ml-system/)
 - [PC vs Laptop: Which One Should You Choose? A Comprehensive Guide to Help You Decide](https://blazingcold.com/pc-vs-laptop-which-one-should-you-choose-a-comprehensive-guide-to-help-you-decide/)
 - [Level Up Your Gaming: How to Choose the Right Gaming Mouse](https://blazingcold.com/level-up-your-gaming-how-to-choose-the-right-gaming-mouse/)
+- [Getting Started with GitHub: A Beginner&#39;s Guide to Mastering the World of Code Collaboration](https://blazingcold.com/getting-started-with-github-a-beginners-guide-to-mastering-the-world-of-code-collaboration/)
 <!-- BLOG-POST-LIST:END -->
