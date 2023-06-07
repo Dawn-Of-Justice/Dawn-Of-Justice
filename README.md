@@ -43,9 +43,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Text to speech, For beginners!](https://blazingcold.com/python-text-to-speech-for-beginners/)
 - [Transform Your Garden with these Must-Have Amazon Products in India](https://blazingcold.com/transform-your-garden-with-these-must-have-amazon-products-in-india/)
 - [The Ultimate Guide to Building a High-Performance ML System in India](https://blazingcold.com/the-ultimate-guide-to-building-a-high-performance-ml-system/)
 - [DIY Acrylic Light](https://blazingcold.com/diy-acylic-light/)
 - [PC vs Laptop: Which One Should You Choose? A Comprehensive Guide to Help You Decide](https://blazingcold.com/pc-vs-laptop-which-one-should-you-choose-a-comprehensive-guide-to-help-you-decide/)
-- [Level Up Your Gaming: How to Choose the Right Gaming Mouse](https://blazingcold.com/level-up-your-gaming-how-to-choose-the-right-gaming-mouse/)
 <!-- BLOG-POST-LIST:END -->
