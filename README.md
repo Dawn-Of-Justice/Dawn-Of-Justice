@@ -43,9 +43,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Visual Question Answering using Python](https://blazingcold.com/vqa/)
 - [ASUS ROG Flow X13 &lpar;2022&rpar;: The Ultimate Compact Gaming Powerhouse](https://blazingcold.com/asus-rog-flow-x13-2022-the-ultimate-compact-gaming-powerhouse/)
+- [DIY Acrylic Light](https://blazingcold.com/diy-acylic-light/)
+- [The Ultimate Guide to Building a High-Performance ML System in India](https://blazingcold.com/the-ultimate-guide-to-building-a-high-performance-ml-system/)
 - [Razer Viper 8KHz: Elevate Your Gaming Experience with Absolute Control](https://blazingcold.com/razer-viper-8khz-elevate-your-gaming-experience-with-absolute-control/)
-- [Python Text to speech, For beginners!](https://blazingcold.com/python-text-to-speech-for-beginners/)
-- [Transform Your Garden with these Must-Have Amazon Products in India](https://blazingcold.com/transform-your-garden-with-these-must-have-amazon-products-in-india/)
+- [Exploring Visual Question Answering using Python](https://blazingcold.com/vqa/)
 <!-- BLOG-POST-LIST:END -->
