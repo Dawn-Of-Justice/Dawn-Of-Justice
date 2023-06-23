@@ -43,9 +43,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [USB Accelerator: Supercharge Your Machine Learning Inference](https://blazingcold.com/usb-accelerator-supercharge-your-machine-learning-inference/)
 - [ASUS ROG Flow X13 &lpar;2022&rpar;: The Ultimate Compact Gaming Powerhouse](https://blazingcold.com/asus-rog-flow-x13-2022-the-ultimate-compact-gaming-powerhouse/)
 - [DIY Acrylic Light](https://blazingcold.com/diy-acylic-light/)
 - [The Ultimate Guide to Building a High-Performance ML System in India](https://blazingcold.com/the-ultimate-guide-to-building-a-high-performance-ml-system/)
 - [Razer Viper 8KHz: Elevate Your Gaming Experience with Absolute Control](https://blazingcold.com/razer-viper-8khz-elevate-your-gaming-experience-with-absolute-control/)
-- [Exploring Visual Question Answering using Python](https://blazingcold.com/vqa/)
 <!-- BLOG-POST-LIST:END -->
