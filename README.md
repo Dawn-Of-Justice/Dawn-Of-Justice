@@ -1,15 +1,15 @@
 ![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Salo Soja Edwin</h1>
-<h3 align="center">Just a boomer programmer (¬‿¬)</h3>
+<h3 align="center">Certified Programmer</h3>
 <img align="right" alt="coding" width="500" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawn-of-justice&label=Profile%20views&color=0e75b6&style=flat" alt="dawn-of-justice" /> </p>
 
 <p align="left"> <a href="https://twitter.com/salosojaedwin" target="blank"><img src="https://img.shields.io/twitter/follow/salosojaedwin?logo=twitter&style=for-the-badge" alt="salosojaedwin" /></a> </p>
 
-- 🔭 I’m currently working on **a humanoid Robot(A.I.R.A)**
+- 🔭 I’m currently working on **A humanoid Robot(A.I.R.A v3)**
 
-- 🌱 I’m currently learning **Python, Arduino, Matlab, Fusion 360**
+- 🌱 I’m currently learning **Fusion 360, Electronics**
 
 - 👯 I’m looking to collaborate on **Machine learning projects**
 
@@ -17,17 +17,17 @@
 
 - 📝 I regularly write articles on [https://blazingcold.com/](https://blazingcold.com/)
 
-- 💬 Ask me about **html, CSS, Javascript, Discord.js**
+- 💬 Ask me about **Coding, 3d printing, Machine learning, Arts, Gaming**
 
 - 📫 How to reach me **https://linktr.ee/salosojaedwin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/salosojaedwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salosojaedwin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/salo-soja-edwin-07b39a207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salo-soja-edwin-07b39a207" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/salosojaedwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salo-soja-edwin-07b39a207" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14210408/dawn-of-justize" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dawn-of-justize" height="30" width="40" /></a>
 <a href="https://instagram.com/salosojaedwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salosoja" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@the7musketeers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@the7musketeers" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@EurekaBotics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@the7musketeers" height="30" width="40" /></a>
 <a href="https://discord.gg/vVX5nut3Xv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vVX5nut3Xv" height="30" width="40" /></a>
 </p>
 
