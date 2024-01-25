@@ -43,8 +43,8 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI: The Next Frontier in Technology](https://blazingcold.com/ai-the-next-frontier-in-technology/)
 - [A Step-by-Step Guide to Installing ROS Humble Hawksbill on Ubuntu 22.04](https://blazingcold.com/a-step-by-step-guide-to-installing-ros-humble-hawksbill-on-ubuntu-2204/)
+- [AI: The Next Frontier in Technology](https://blazingcold.com/ai-the-next-frontier-in-technology/)
 - [Things to know before changing to Liquid Metal](https://blazingcold.com/things-to-know-before-upgrading-to-liquid-metal/)
 - [USB Accelerator: Supercharge Your Machine Learning Inference](https://blazingcold.com/usb-accelerator-supercharge-your-machine-learning-inference/)
 - [ASUS ROG Flow X13 &lpar;2022&rpar;: The Ultimate Compact Gaming Powerhouse](https://blazingcold.com/asus-rog-flow-x13-2022-the-ultimate-compact-gaming-powerhouse/)
