@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/salosojaedwin" target="blank"><img src="https://img.shields.io/twitter/follow/salosojaedwin?logo=twitter&style=for-the-badge" alt="salosojaedwin" /></a> </p>
 
-- 🔭 I’m currently working on **A humanoid Robot(A.I.R.A v3)**
+- 🔭 I’m currently working on **A humanoid Robot(A.I.R.A v4)**
 
 - 🌱 I’m currently learning **Fusion 360, Electronics**
 
