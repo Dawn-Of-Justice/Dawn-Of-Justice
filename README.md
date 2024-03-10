@@ -40,7 +40,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dawn-of-justice&" alt="dawn-of-justice" /></p>
 
-![snake gif](https://github.com/Dawn-Of-Justice/Dawn-Of-Justice/blob/output/github-contribution-grid-snake-dark.gif)
+![snake gif](https://github.com/Dawn-Of-Justice/Dawn-Of-Justice/blob/output/github-contribution-grid-snake.gif)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
