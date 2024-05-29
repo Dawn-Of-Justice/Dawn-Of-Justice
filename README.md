@@ -44,9 +44,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I made an autonomous CyberTruck with a Raspberry Pi](https://blazingcold.com/diy-autonomus-car/)
 - [Is Natural Language Processing relevant?](https://blazingcold.com/is-natural-language-processing-relavent/)
 - [AI: The Next Frontier in Technology](https://blazingcold.com/ai-the-next-frontier-in-technology/)
 - [A Step-by-Step Guide to Installing ROS Humble Hawksbill on Ubuntu 22.04](https://blazingcold.com/a-step-by-step-guide-to-installing-ros-humble-hawksbill-on-ubuntu-2204/)
 - [Things to know before changing to Liquid Metal](https://blazingcold.com/things-to-know-before-upgrading-to-liquid-metal/)
-- [USB Accelerator: Supercharge Your Machine Learning Inference](https://blazingcold.com/usb-accelerator-supercharge-your-machine-learning-inference/)
 <!-- BLOG-POST-LIST:END -->
