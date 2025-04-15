@@ -109,9 +109,9 @@ Tools & Others
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I made an autonomous CyberTruck with a Raspberry Pi](https://blazingcold.com/diy-autonomus-car/)
-- [Is Natural Language Processing relevant?](https://blazingcold.com/is-natural-language-processing-relavent/)
-- [AI: The Next Frontier in Technology](https://blazingcold.com/ai-the-next-frontier-in-technology/)
-- [A Step-by-Step Guide to Installing ROS Humble Hawksbill on Ubuntu 22.04](https://blazingcold.com/a-step-by-step-guide-to-installing-ros-humble-hawksbill-on-ubuntu-2204/)
-- [Things to know before changing to Liquid Metal](https://blazingcold.com/things-to-know-before-upgrading-to-liquid-metal/)
+- [I made an autonomous CyberTruck with a Raspberry Pi](https://tinkerbotics.com/diy-autonomus-car/)
+- [Is Natural Language Processing relevant?](https://tinkerbotics.com/is-natural-language-processing-relavent/)
+- [AI: The Next Frontier in Technology](https://tinkerbotics.com/ai-the-next-frontier-in-technology/)
+- [A Step-by-Step Guide to Installing ROS Humble Hawksbill on Ubuntu 22.04](https://tinkerbotics.com/a-step-by-step-guide-to-installing-ros-humble-hawksbill-on-ubuntu-2204/)
+- [Things to know before changing to Liquid Metal](https://tinkerbotics.com/things-to-know-before-upgrading-to-liquid-metal/)
 <!-- BLOG-POST-LIST:END -->
