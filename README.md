@@ -17,7 +17,7 @@
 - 🌱 Expanding my knowledge in **Fusion 360 & Electronics**
 - 👯 Looking to collaborate on **Machine Learning projects**
 - 🤝 Seeking help with **advanced Machine Learning techniques**
-- 📝 I blog at [BlazingCold.com](https://blazingcold.com/)
+- 📝 I blog at [tinkerbotics.com](https://tinkerbotics.com/)
 - 💬 Let's talk about **Coding, 3D Printing, Machine Learning, Arts & Gaming**
 
 ## 🛠️ Skills & Technologies
