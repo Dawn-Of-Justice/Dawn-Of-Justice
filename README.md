@@ -13,7 +13,7 @@
 
 ## 🤖 About Me
 
-- 🔭 Currently building **A humanoid Robot (A.I.R.A v4)**
+- 🔭 Currently building **[Project-Revgen](https://github.com/Dawn-Of-Justice/project-revgen)**
 - 🌱 Expanding my knowledge in **Fusion 360 & Electronics**
 - 👯 Looking to collaborate on **Machine Learning projects**
 - 🤝 Seeking help with **advanced Machine Learning techniques**
