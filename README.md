@@ -14,8 +14,8 @@
 ## 🤖 About Me
 
 - 🔭 Currently building **[Project-Revgen](https://github.com/Dawn-Of-Justice/project-revgen)**
-- 🌱 Expanding my knowledge in **Fusion 360 & Electronics**
-- 👯 Looking to collaborate on **Machine Learning projects**
+- 🌱 Expanding my knowledge in **PCB Designing**
+- 👯 Looking to collaborate on **Unique DIY/Opensource Project**
 - 🤝 Seeking help with **advanced Machine Learning techniques**
 - 📝 I blog at [tinkerbotics.com](https://tinkerbotics.com/)
 - 💬 Let's talk about **Coding, 3D Printing, Machine Learning, Arts & Gaming**
