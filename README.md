@@ -4,13 +4,13 @@
   # Hey there! 👋 I'm Salo Soja Edwin
 </div>
 
-##  About Me
+##  About Me 🕵🏼
 
 I build things that scale, break them to learn more, and automate anything I get tired of doing twice.
 
 From debugging race conditions at 2AM to tuning 3D printer firmware by hand, I live at the intersection of software, systems, and curiosity. I don’t just write code — I engineer solutions, question assumptions, and obsess over details that actually matter.
 
-## Hand Picked Favorites
+## Hand Picked Favorites 😸
 
 ### [**Project revgen**](https://github.com/Dawn-Of-Justice/project-revgen): 
 
