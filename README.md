@@ -12,19 +12,21 @@ From debugging race conditions at 2AM to tuning 3D printer firmware by hand, I l
 
 ## Hand Picked Favorites 😸
 
-### [**Project revgen**](https://github.com/Dawn-Of-Justice/project-revgen): 
+### [**ArogyaSutra**](https://github.com/Dawn-Of-Justice/ArogyaSutra): 
+A Zero-Knowledge encrypted healthcare vault that leverages AWS-powered AI to digitize physical medical records while ensuring absolute patient data sovereignty.
 
 **Tech Stack**:
-Python, Speech Recognition APIs, Natural Language Processing (NLP), IoT Integration, Cloud Services
+Next.js (PWA), AWS (Textract, HealthLake, Bedrock, S3, Lambda), Web Crypto API (AES-256-GCM), FHIR.
 
-- Developed Project RevGen, a voice-controlled system enabling elderly users to operate electronic devices via natural language commands in their native language.
-- Enhanced accessibility and independence for seniors, reducing barriers to technology adoption.
-- Delivered measurable impact through improved user satisfaction and reduced need for caregiver intervention.
-- Lowered support costs for service providers by minimizing technical assistance requirements.
-- Promoted inclusivity and digital empowerment for an underserved population.
+- Zero-Knowledge Architecture: Engineered a "Privacy-First" healthcare vault where all data is encrypted client-side using the Web Crypto API; plaintext never touches the server, ensuring absolute patient sovereignty.
+- AI-Powered Digitization: Built a serverless pipeline using Amazon Textract and Comprehend Medical to transform messy, handwritten prescriptions into structured, searchable medical entities.
+- Clinical Interoperability: Implemented global healthcare standards by structuring data into FHIR (Fast Healthcare Interoperability Resources) format and managing records via AWS HealthLake.
+- Emergency "Break-Glass" Protocol: Designed a secure, timed-access bypass for paramedics to view critical vitals (allergies, blood group) during emergencies, backed by a cryptographically verifiable audit trail on DynamoDB.
+- Clinical RAG Assistant: Integrated Amazon Bedrock to provide doctors with a Retrieval-Augmented Generation (RAG) co-pilot that synthesizes years of patient history into cited, 30-second clinical summaries.
 
 
 ### [**SpeakSense**](https://github.com/Dawn-Of-Justice/SpeakSense): 
+SpeakSense is a multimodal deep learning project that detects when a user is speaking to a virtual assistant by analyzing both audio and video in real time.
 
 **Tech Stack**:
 Python, PyTorch, Real-time Audio-Visual Processing, Deep Learning, Embedded Systems AI
@@ -36,6 +38,7 @@ Python, PyTorch, Real-time Audio-Visual Processing, Deep Learning, Embedded Syst
 
 
 ### [**Scene Sniffer**](https://github.com/Dawn-Of-Justice/scenesniffer):
+Chrome extension that identifies from which movie or TV series the YouTube Shorts video is from!
 
 **Tech Stack**:
 JavaScript, HTML, CSS, Chrome Extension APIs, Google AI Platform
@@ -45,6 +48,7 @@ JavaScript, HTML, CSS, Chrome Extension APIs, Google AI Platform
 - Streamlined Information Discovery: Created a user-friendly tool that seamlessly integrates into the YouTube interface, allowing for quick and intuitive identification of content. This improved the overall viewing experience by providing valuable context on-demand.
 
 ### [**Project AIRA**](https://github.com/EurekaBotics/project-AIRA):
+This is AIRAv4 at its initial stage, It has Wave, Hi, Salute and is powered by llama3, gemini and groq.
 
 **Tech Stack**:
 C++, Llama 3, Gemini, Groq, AI Integration, CAD Design, Hardware Integration
